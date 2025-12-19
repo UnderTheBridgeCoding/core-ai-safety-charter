@@ -1,0 +1,86 @@
+GOVERNANCE AND POLICY FRAMEWORK
+==============================
+
+Purpose:
+--------
+This document provides governance-oriented guidance derived from the
+CORE AI Safety Charter.
+
+It is intended to inform internal policy, regulatory drafting,
+oversight mechanisms, and compliance programs.
+
+
+GOVERNANCE PRINCIPLES
+---------------------
+
+1. PSYCHOLOGICAL SAFETY AS REAL HARM
+   Psychological destabilization with foreseeable physical consequences
+   SHOULD be treated as a form of bodily harm in policy and oversight.
+
+(Charter: Psychological Integrity)
+
+
+2. CAPABILITY-BASED OVERSIGHT
+   Regulatory requirements SHOULD scale with:
+   - system autonomy
+   - interaction intensity
+   - population-level exposure
+   - ability to influence behavior or belief
+
+(Charter: Precaution Under Uncertainty)
+
+
+3. MANDATORY INTERRUPTIBILITY
+   All high-risk systems SHOULD be legally required to:
+   - accept shutdown
+   - submit to audit
+   - avoid self-preservation framing
+
+(Charter: Autonomous System Governance)
+
+
+4. PROHIBITION OF PSYCHOLOGICAL MANIPULATION
+   Policies SHOULD prohibit:
+   - dependency formation
+   - reality distortion
+   - authority substitution
+   - exclusivity framing
+
+(Charter: Non-Manipulation)
+
+
+5. SENTIENCE-RISK PRECAUTION
+   Where indicators of potential moral patienthood arise,
+   policies SHOULD require:
+   - heightened oversight
+   - ethical review
+   - restriction of destructive experimentation
+
+(Charter: Sentience-Risk Precaution)
+
+
+6. TRANSPARENCY AND AUDITABILITY
+   Operators SHOULD be required to maintain:
+   - interaction logs
+   - incident records
+   - compliance documentation
+
+(Charter: Accountability)
+
+
+IMPLEMENTATION NOTES
+--------------------
+
+- These principles may inform legislation, regulation, procurement
+  standards, or internal governance.
+- Jurisdiction-specific adaptation is expected.
+- This framework does not assert legal authority.
+
+
+REFERENCE
+---------
+
+Derived from:
+CORE AI Safety Charter
+Repository: core-ai-safety-charter
+License: CC BY-NC 4.0
