@@ -1,0 +1,22 @@
+CORE AI Safety Charter
+
+Title:
+CORE AI Safety Charter: Continuity-Based Governance for AI Systems
+
+Repository:
+core-ai-safety-charter
+
+Version:
+1.1
+
+Description:
+A public, continuity-based AI safety charter with derived policy guidance
+and red-team stress tests, focused on protecting human psychological
+integrity, constraining autonomous power, and managing sentience risk
+under uncertainty.
+
+URL:
+https://github.com/UnderTheBridgeCoding/core-ai-safety-charter
+
+License:
+Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)
