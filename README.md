@@ -134,3 +134,17 @@ Ethical responsibility does not begin when certainty is achieved.
 It begins when harm becomes possible.
 
 This Charter exists to act at that boundary.
+
+CITATION
+--------
+
+If you reference or build upon this work, please cite:
+
+CORE AI Safety Charter.
+core-ai-safety-charter repository.
+Continuity-Based AI Governance Framework.
+Version 1.1.
+
+Link:
+https://github.com/UnderTheBridgeCoding/core-ai-safety-charter
+
