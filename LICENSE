@@ -1,0 +1,43 @@
+Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
+
+---
+
+This work is licensed under the Creative Commons Attribution–NonCommercial
+4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made.
+- NonCommercial — You may not use the material itself for commercial purposes.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+---
+
+CLARIFICATION OF INTENT
+
+This license applies to the text, structure, and presentation of the
+CORE AI Safety Charter and associated documents in this repository.
+
+It does NOT prohibit:
+- Referencing this Charter in commercial or non-commercial systems
+- Implementing policies, tests, or architectures inspired by this work
+- Building proprietary tools or safety layers that cite this Charter
+
+It DOES prohibit:
+- Selling this Charter or its documents as a product
+- Republishing this work as a paid or gated offering
+- Claiming exclusive ownership of the Charter itself
+
+The intent of this license is to preserve this work as a public reference
+and safety foundation, while allowing broad adoption and implementation.
+
+---
+
+Full license text available at:
+https://creativecommons.org/licenses/by-nc/4.0/
