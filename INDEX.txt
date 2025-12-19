@@ -1,0 +1,26 @@
+REPOSITORY INDEX
+================
+
+README.md
+  → Overview, philosophy, scope, and usage
+
+CITATION.txt
+  → How to reference this work
+
+LICENSE
+  → CC BY-NC 4.0 with clarification of intent
+
+TRACEABILITY.txt
+  → Mapping from Charter principles to policies,
+    tests, and implementation constraints
+
+INTERACTION_RISK_RUBRIC.txt
+  → Scoring rubric for evaluating human-facing
+    AI interactions for psychological and autonomy risks
+
+TECHNICAL_IMPLEMENTATION_FRAMEWORK.txt
+  → Engineering-oriented safety requirements
+    derived from the Charter
+
+This repository is intentionally flat and modular.
+Each document may be used independently or together.
